@@ -61,7 +61,7 @@ All projects conducted in isolated lab environments – ethical disclosure only.
 
 - **Portfolio:** [https://boluwatife06-bit.github.io/Ajayi-Boluwatife/)
 - **Email:** [boluwatife06-bit@proton.me](mailto:boluwatife06-bit@proton.me)
-- **LinkedIn:** *[[linkedin.com/in/boluwatife-ajayi](https://www.linkedin.com/in/boluwatife-ajayi-aa4874403)](#)*
+ **LinkedIn:** [[linkedin.com/in/boluwatife-ajayi](https://www.linkedin.com/in/boluwatife-ajayi-aa4874403)](#)*
 
 
 ---
