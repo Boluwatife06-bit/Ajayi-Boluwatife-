@@ -5,7 +5,7 @@ Red Team mindset · Blue Team impact
 
 I break things to make them stronger, then build automation so we don't break the same way twice. My focus is on measurable risk reductionfrom detection engineering to adversarial simulations.
 
----
+--
 
 🔧 What I Do
 
