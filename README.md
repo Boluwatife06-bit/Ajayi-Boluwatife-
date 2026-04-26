@@ -28,7 +28,7 @@ I break things to make them stronger, then build automation so we don't break th
 | **WiFi** | Airodump-ng, Aircrack-ng |
 | **Cloud** | Azure Fundamentals (AZ-900) |
 
----
+--
 
 ## 📁 Featured Projects
 
