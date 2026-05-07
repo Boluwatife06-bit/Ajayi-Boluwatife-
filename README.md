@@ -6,7 +6,6 @@ Red Team mindset · Blue Team impact
 I break things to make them stronger, then build automation so we don't break the same way twice. My focus is on measurable risk reductionfrom detection engineering to adversarial simulations.
 
 
-
 🔧 What I Do
 
 - **SIEM Engineering** – Splunk/ELK stack, custom correlation rules, MITRE ATT&CK mapping, real‑time dashboards.
@@ -14,7 +13,7 @@ I break things to make them stronger, then build automation so we don't break th
 - **Security Automation** – Python/Bash scripts for log parsing, threat intel enrichment, and CIS hardening.
 - **Network Defense** – Snort IDS/IPS, Wireshark deep packet inspection, pfSense firewall, VLAN segmentation.
 
----
+
 
 ## 🛠️ Technical Arsenal
 
